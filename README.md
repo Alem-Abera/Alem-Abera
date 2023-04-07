@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alemtsehay! </h1>
-<h2> About me</h2> <br>
+<h2>A little About me</h2> <br>
 <p> I'm Innovative, creative and professional. Specialized in Digital Marketing and Website Development. I am a cheerful, ambitious and resilient person. I love my job and achieving milestones working with a team.</p>
 <h2>👨‍💻 Website Development Projects</h2>
 
