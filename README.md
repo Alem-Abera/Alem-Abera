@@ -17,8 +17,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/alem_abera13
+[youtube]: https://www.youtube.com/@favoritto4240
 [instagram]: https://www.instagram.com/alem_abera13/
 [linkedin]: https://www.linkedin.com/in/alemtsehay-abera-a1bb80234/
 
