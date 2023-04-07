@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alemtsehay! </h1>
 <h2> About me</h2> <br>
-<p> Innovative, creative and professional. Specialized in Digital Marketing and Website Development. I am a cheerful, ambitious and resilient person. I love my job and achieving milestones working with a team.</p>
+<p> I'm Innovative, creative and professional. Specialized in Digital Marketing and Website Development. I am a cheerful, ambitious and resilient person. I love my job and achieving milestones working with a team.</p>
 <h2>👨‍💻 Website Development Projects</h2>
 
   - [Amha Wehibe Import and Technology Services](https://amhawehibeimportandtechnology.com)
