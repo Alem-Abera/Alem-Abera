@@ -1,14 +1,16 @@
-<h1>Hi, I'm Alemtsehay! </h1>
+<h1>Hello, I'm Alemtsehay! </h1>
 <h2>A little About me</h2> <br>
 <p> I'm Innovative and creative professional. Specialized in Digital Marketing and Website Development. I am a cheerful, ambitious and resilient person. I love my job and I can achieve milestones working with a team.</p>
 <h2>👨‍💻 Website Development Projects</h2>
 
   - [Amha Wehibe Import and Technology Services](https://amhawehibeimportandtechnology.com)
-  - [Napu technology service](https://naputechnolgy.com/) 
+  - [Napu technology service](https://naputechnolgy.com/)
+  - [Brick by Brick Tigray Foundation](https://brickbybricktigrayfoundation.com/)
+  - [Dasoma Trading](https://dasomagroup.com/)
 <h2>📺 Digital Marketing Projects </h2>
-
+- [Mishka Studio](https://www.youtube.com/channel/UCBrhyk_3KqYVWov58SRQPvQ)
+- [Elilta Tube](https://www.youtube.com/channel/UC1DyHYTLFynX2KHqGLHAPDg)
 - [Amha Services](https://www.http://amhaservices.com)
-
 
 <h2> 🤳 Connect with me:</h2>
 
